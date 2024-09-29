@@ -1,4 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
+using Microsoft.Extensions.Configuration;
+
 
 public class Weather
 {
@@ -12,7 +14,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        string apiKey = "dda56c3e8395d0ab518f9c2a25ee3f14";
+        var builder = new ConfigurationBuilder()
+                    .AddUserSecrets<Program>();
+        IConfiguration configuration = builder.Build();
+
+        string apiKey = configuration["OpenWeatherApiKey"];
+       
         var weathers = new List<Weather>();
 
         using (HttpClient client = new HttpClient())

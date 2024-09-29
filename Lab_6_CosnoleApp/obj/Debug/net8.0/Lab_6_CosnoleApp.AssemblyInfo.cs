@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("4bb61784-881b-445d-a646-a14553df65b1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab_6_CosnoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e62cdab46857b68f46b47771afc537bcadc0b990")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b79d422c8cf2237e0ae6257f2d5881bb717f19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab_6_CosnoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab_6_CosnoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

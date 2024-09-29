@@ -16,3 +16,12 @@
 /Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/obj/Debug/net8.0/Lab_6_CosnoleApp.pdb
 /Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/obj/Debug/net8.0/Lab_6_CosnoleApp.genruntimeconfig.cache
 /Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/obj/Debug/net8.0/ref/Lab_6_CosnoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_6/Lab_6_CosnoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.UserSecrets.dll
